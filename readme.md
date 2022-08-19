@@ -11,7 +11,7 @@ Please find the requirements for this project [here](https://github.com/microver
 
 # screenshot 
 Output
-![Screenshot1](screenshot.png)
+
 
 ## Installation & Usage
 
